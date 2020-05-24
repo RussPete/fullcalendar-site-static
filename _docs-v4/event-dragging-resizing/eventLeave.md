@@ -2,7 +2,7 @@
 title: eventLeave
 ---
 
-Triggered when on a calendar when one if its events is about to be [dropped onto another calendar](other-calendar-dragging).
+Triggered when on a calendar when one of its events is about to be [dropped onto another calendar](other-calendar-dragging).
 
 <div class='spec' markdown='1'>
 function( *info* ) { }
